@@ -14,7 +14,9 @@
         "/runtime.ec2944dd8b20ec099bf3.js",
         "/styles.3ff695c00d717f2d2a11.css"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/maxcdn\\.bootstrapcdn\\.com\\/bootstrap\\/4\\.0\\.0\\/css\\/bootstrap\\.min\\.css"
+      ]
     },
     {
       "name": "assets",
